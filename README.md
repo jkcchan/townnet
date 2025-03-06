@@ -1,4 +1,3 @@
-```markdown
 # TownNet: Multiplayer Networking Modules for LÖVE2D  
 **Build multiplayer games with intuitive real-world analogies, not networking jargon.**  
 
@@ -131,5 +130,3 @@ end
 ## License 📜  
 MIT License - fork/modify freely! Credit appreciated but not required.
 ``` 
-
----
